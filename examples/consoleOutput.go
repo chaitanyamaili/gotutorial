@@ -1,9 +1,6 @@
 package main
 
-import  {
-	"fmt",
-	"github"
-}
+import "fmt"
 
 func main() {
 	str1 := "The quick red fox"
